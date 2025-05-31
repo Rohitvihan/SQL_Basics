@@ -1,5 +1,5 @@
 
----
+
 
 ## 📊 SQL Practice with Suzuki and Royal Enfield Sales Data
 
