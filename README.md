@@ -1,4 +1,3 @@
-Here's a clean and well-structured **README.md** file you can use to upload your SQL project to GitHub. This will help others understand your code and the purpose behind each query.
 
 ---
 
