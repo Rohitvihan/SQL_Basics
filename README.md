@@ -1,6 +1,3 @@
-
-
-
 ## 📊 SQL Practice with Suzuki and Royal Enfield Sales Data
 
 This project demonstrates the use of **SQL operations** such as table creation, data insertion, filtering, aggregation, joins, and set operations using two sample tables: `suzuki` and `royal_enfield`.
