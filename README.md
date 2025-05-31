@@ -149,17 +149,3 @@ SELECT DISTINCT geography FROM royal_enfield;
 * SQL joins (`INNER`, `LEFT`, `RIGHT`, `FULL`)
 * UNION and DISTINCT operations
 
----
-
-### 🛠 Tech Stack
-
-* **MySQL**
-* Any SQL editor (MySQL Workbench, DBeaver, VS Code with SQL extension)
-
----
-
-Feel free to fork this repository, modify the data, or contribute by adding new queries or optimizations!
-
----
-
-Let me know if you’d like a sample `.sql` file to go along with this README!
